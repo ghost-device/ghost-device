@@ -3,7 +3,7 @@
 ## 💫 About Me:
 - 👋 Hi, My name is Elmurodov Jamshid.<br>
 - 👀 I am backend developer and my main programming language is Java☕<br>
-- Connect with me -> [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/jamshid_elmurodov)
+- Connect with me [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/jamshid_elmurodov)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jamshid__272/) 
