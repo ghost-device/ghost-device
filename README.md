@@ -1,6 +1,6 @@
 <h1 align="center"> Assalomu alaykum ! </h1>
 
-## 💫 About Me:
+### 💫 About Me:
 - 👋 Hi, My name is Elmurodov Jamshid.<br>
 - 👀 I am backend developer and my main programming language is Java☕<br>
 - Connect with me [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/jamshid_elmurodov)
